@@ -1,4 +1,4 @@
-# AI-Assisted Clinical Data Parser 🧬
+# AI-Assisted Clinical Data Parser
 
 A specialized tool built with Python and Streamlit to automate the extraction of biochemical data from medical lab reports using Google's Gemini 3 Flash API.
 
