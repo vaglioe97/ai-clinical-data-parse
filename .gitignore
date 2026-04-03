@@ -1,0 +1,5 @@
+.env
+*.json
+*.pdf
+*.webm
+__pycache__/
